@@ -1,0 +1,2 @@
+# Harjutamine
+Githubis versioonihalduse harjutamine
