@@ -1,0 +1,8 @@
+GitHub on veebipõhine teenus versioonikontrolli ja koostöö jaoks, mis tugineb Gitile. See võimaldab hoida lähtekoodi varamu, jälgida muudatusi (commits), luua ja hallata harusid (branches), teha pull requeste ning läbi viia koodikontrolle. Lisaks toetab GitHub automatiseerimist (CI/CD), probleemide ja ülesannete haldust ning dokumentatsiooni pidamist.
+
+Kes GitHubi kasutavad:
+- Tarkvaraarendajad ja arendustiimid
+- Ettevõtted ja organisatsioonid tarkvara elutsükli haldamiseks
+- Avatud lähtekoodi kogukond ja hooldajad
+- Teadlased ja üliõpilased teadustööde ning koostööprojekti jaoks
+- DevOps-insenerid CI/CD ja juurutuste haldamiseks
