@@ -6,3 +6,5 @@ Kes GitHubi kasutavad:
 - Avatud lähtekoodi kogukond ja hooldajad
 - Teadlased ja üliõpilased teadustööde ning koostööprojekti jaoks
 - DevOps-insenerid CI/CD ja juurutuste haldamiseks
+
+Kuidas ja kus saan GitHubi kasutada: Saan GitHubi kasutada koodihostimiseks ja koostööks veebis ning hallata versioone nii isiklikult kui ka organisatsiooni tasemel. Võin kasutada GitHubi nii veebiliideses kui ka kohaliku Git'i kaudu terminalist või graafilise kliendiga.
