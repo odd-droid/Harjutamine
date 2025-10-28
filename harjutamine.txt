@@ -7,4 +7,6 @@ Kes GitHubi kasutavad:
 - Teadlased ja üliõpilased teadustööde ning koostööprojekti jaoks
 - DevOps-insenerid CI/CD ja juurutuste haldamiseks
 
-Kuidas ja kus saan GitHubi kasutada: Saan GitHubi kasutada koodihostimiseks ja koostööks veebis ning hallata versioone nii isiklikult kui ka organisatsiooni tasemel. Võin kasutada GitHubi nii veebiliideses kui ka kohaliku Git'i kaudu terminalist või graafilise kliendiga.
+Kuidas ja kus saad GitHubi kasutada: Sa saad GitHubi kasutada koodihostimiseks ja koostööks veebis ning hallata versioone nii isiklikult kui ka organisatsiooni tasemel. Võid kasutada GitHubi nii veebiliideses kui ka kohaliku Git'i kaudu terminalist või graafilise kliendiga.
+
+GitHubi ajalugu: GitHub Inc loodi 2008. aastal; asutajateks olid Chris Wanstrath, Tom Preston‑Werner ja PJ Hyett. GitHubi teenus oli avalikult kättesaadav alates 2008. aasta aprillist.
